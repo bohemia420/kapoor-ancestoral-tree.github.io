@@ -1,0 +1,937 @@
+{
+	"name": "Yogi Dass Kapoor",
+	"children": [
+		{
+			"name": "Udho Dass",
+			"size": 2000
+		},
+		{
+			"name": "Bhajanas Rai",
+			"children": [
+				{
+					"name": "Snam Rai",
+					"size": 2000
+				},
+				{
+					"name": "Harnath",
+					"size": 2000
+				},
+				{
+					"name": "Dass Mal",
+					"children": [
+						{
+							"name": "Ram Sahai",
+							"size": 2000
+						},
+						{
+							"name": "Moti Ram",
+							"children": [
+								{
+									"name": "Bilas Rai",
+									"size": 2000
+								},
+								{
+									"name": "Mohri Mal",
+									"children": [
+										{
+											"name": "Prabha Mal",
+											"children": [
+												{
+													"name": "Gulzari Lal",
+													"size": 2000
+												},
+												{
+													"name": "Heera Lal",
+													"children": [
+														{
+															"name": "Anant Ram",
+															"children": [
+																{
+																	"name": "Bhagwan Das",
+																	"size": 2000
+																},
+																{
+																	"name": "Mahendra Sen",
+																	"size": 2000
+																},
+																{
+																	"name": "Amar Nath",
+																	"children": [
+																		{
+																			"name": "Pran Nath",
+																			"children": [
+																				{
+																					"name": "Manmohan",
+																					"size": 2000
+																				},
+																				{
+																					"name": "Raj Kumar",
+																					"size": 2000
+																				}
+																			]
+																		},
+																		{
+																			"name": "Vishwa Nath",
+																			"children": [
+																				{
+																					"name": "Surendra Mohan",
+																					"size": 2000
+																				},
+																				{
+																					"name":"Brij Mohan",
+																					"size": 2000
+																				}
+																			]
+																		}
+																	]
+																}
+															]
+														},
+														{
+															"name": "Hukam Chand",
+															"children": [
+																{
+																	"name": "Narayan Das",
+																	"size": 2000
+																}
+															]
+														}
+													]
+												},
+												{
+													"name": "Hariya Mal",
+													"children": [
+														{
+															"name": "Daulat Ram",
+															"size": 2000
+														},
+														{
+															"name": "Veeru Mal",
+															"children": [
+																{
+																	"name": "Durga Das",
+																	"children": [
+																		{
+																			"name": "Raj Kumar",
+																			"size": 2000
+																		},
+																		{
+																			"name": "Prem Kumar",
+																			"size": 2000
+																		},
+																		{
+																			"name": "Veer Kumar",
+																			"size": 2000
+																		}
+																	]
+																}
+															]
+														}
+													]
+												}
+											]
+										},
+										{
+											"name": "Launkarh mal",
+											"children": [
+												{
+													"name": "Harnam Das",
+													"children": [
+														{
+															"name": "AmeerChand",
+															"size": 2000
+														},
+														{
+															"name": "MoolChand",
+															"children": [
+																{
+																	"name": "Sukh Dyal",
+																	"children": [
+																		{
+																			"name": "Pran Nath",
+																			"size": 2000
+																		},
+																		{
+																			"name": "Harbans Lal",
+																			"children": [
+																				{
+																					"name": "Ravindra Lal",
+																					"size": 2000
+																				}
+																			]
+																		},
+																		{
+																			"name": "Raj Kumar",
+																			"size": 2000
+																		},
+																		{
+																			"name": "Prem Nath",
+																			"children": [
+																				{
+																					"name": "Pramod",
+																					"size": 2000
+																				}
+																			]
+																		}
+																	]
+																},
+																{
+																	"name": "Shiv Dyal",
+																	"children": [
+																		{
+																			"name": "Ram Nath",
+																			"children": [
+																				{
+																					"name": "Ravi Kumar",
+																					"size": 2000
+																				},
+																				{
+																					"name": "Rajan",
+																					"size": 2000
+																				}
+																			]
+																		},
+																		{
+																			"name": "Narendra Nath",
+																			"size": 2000
+																		},
+																		{
+																			"name": "Surendra Nath",
+																			"size": 2000
+																		},
+																		{
+																			"name": "Kailash Kumar",
+																			"size": 2000
+																		}
+																	]
+																},
+																{
+																	"name": "Manak Chand",
+																	"size": 2000
+																},
+																{
+																	"name": "Husn Dyal",
+																	"children": [
+																		{
+																			"name": "Namaloom?",
+																			"size": 2000
+																		},
+																		{
+																			"name": "Saran Das",
+																			"size": 2000
+																		},
+																		{
+																			"name": "Kali Charan",
+																			"size": 2000
+																		},
+																		{
+																			"name": "Charanjeet",
+																			"size": 2000
+																		}
+																	]
+																},
+																{
+																	"name": "Manohar Lal",
+																	"size": 2000
+																},
+																{
+																	"name": "Chaman Lal",
+																	"size": 2000
+																}
+
+															]
+														},
+														{
+															"name": "MohanLal",
+															"children": [
+																{
+																	"name": "Chaman Lal",
+																	"children": [
+																		{
+																			"name": "Bhole Kumar",
+																			"size": 2000
+																		}
+																	]
+																},
+																{
+																	"name": "Ram Gopal",
+																	"children": [
+																		{
+																			"name": "Vinod Kumar",
+																			"size": 2000
+																		}
+																	]
+																}
+															]
+														}
+													]
+												},
+												{
+													"name": "Deena Nath",
+													"children": [
+														{
+															"name": "Dr. Guran Ditta Mal Kapoor",
+															"children": [
+																{
+																	"name": "Ram Das",
+																	"children": [
+																		{
+																			"name": "Avtar Krishan",
+																			"size": 2000
+																		},
+																		{
+																			"name": "Kewal Krishan",
+																			"size": 2000
+																		}
+																	]
+																},
+																{
+																	"name": "Sham Das",
+																	"size": 2000
+																}
+															]
+														}
+													]
+												},
+												{
+													"name": "Aasaram",
+													"children": [
+														{
+															"name": "Mohan Lal",
+															"children": [
+																{
+																	"name": "Udho Ram",
+																	"children": [
+																		{
+																			"name": "Raman Prakash",
+																			"size": 2000
+																		},
+																		{
+																			"name": "Kranti Prakash",
+																			"size": 2000
+																		},
+																		{
+																			"name": "Rajendra Kumar",
+																			"size": 2000
+																		},
+																		{
+																			"name": "Ram Prakash",
+																			"size": 2000
+																		}
+																	]
+																},
+																{
+																	"name": "Sai Das",
+																	"children": [
+																		{
+																			"name": "Om Prakash",
+																			"size": 2000
+																		}
+																	]
+																},
+																{
+																	"name": "Krishan Dyal",
+																	"children": [
+																		{
+																			"name": "Chaman Lal",
+																			"size": 2000
+																		},
+																		{
+																			"name": "Banwari Lal",
+																			"size": 2000
+																		},
+																		{
+																			"name": "Amrit Lal",
+																			"size": 2000
+																		}
+																	]
+																}
+															]
+														}
+													]
+												}
+											]
+										},
+										{
+											"name": "Bhav Shah",
+											"children": [
+												{
+													"name": "Ram Dyal",
+													"size": 2000
+												},
+												{
+													"name": "Daya Ram",
+													"children": [
+														{
+															"name": "Charan Das",
+															"children": [
+																{
+																	"name": "Malava Ram",
+																	"children": [
+																		{
+																			"name": "Panna Mal",
+																			"size": 2000
+																		}
+																	]
+																},
+																{
+																	"name": "Aagya Ram",
+																	"children": [
+																		{
+																			"name": "Narayan Das",
+																			"children": [
+																				{
+																					"name": "Shiv Bhola Nath",
+																					"size": 2000
+																				}
+																			]
+																		},
+																		{
+																			"name": "Lal Chand",
+																			"children": [
+																				{
+																					"name": "Kalu Ram",
+																					"size": 2000
+																				}
+																			]
+																		},
+																		{
+																			"name": "Sukh Dyal",
+																			"children": [
+																				{
+																					"name": "Susheetal Kumar",
+																					"size": 2000
+																				},
+																				{
+																					"name": "Surendra Kumar",
+																					"size": 2000
+																				},
+																				{
+																					"name": "Sudarshan Kumar",
+																					"size": 2000
+																				}
+																			]
+																		},
+																		{
+																			"name": "Mahakam Chand",
+																			"size": 2000
+																		},
+																		{
+																			"name": "Peshawari Lal",
+																			"children": [
+																				{
+																					"name": "Krishna Kumar",
+																					"size": 2000
+																				},
+																				{
+																					"name": "Raj Kumar",
+																					"size": 2000
+																				},
+																				{
+																					"name": "Satya Pal",
+																					"size": 2000
+																				},
+																				{
+																					"name": "Govind Ram",
+																					"size": 2000
+																				},
+																				{
+																					"name": "Chaman Lal",
+																					"size": 2000
+																				}
+																			]
+																		}
+																	]
+																},
+																{
+																	"name": "Mana mal",
+																	"children": [
+																		{
+																			"name": "Sai Das",
+																			"children": [
+																				{
+																					"name": ";Lekh Raj",
+																					"size": 2000
+																				},
+																				{
+																					"name": "Jagannath",
+																					"size": 2000
+																				}
+																			]
+																		}
+																	]
+																}
+															]
+														},
+														{
+															"name": "Kedar Nath",
+															"children": [
+																{
+																	"name": "Hajju Mal",
+																	"children": [
+																		{
+																			"name": "Roshan Lal",
+																			"size": 2000
+																		},
+																		{
+																			"name": "Madan Lal",
+																			"children": [
+																				{
+																					"name": "Manohar Lal",
+																					"size": 2000
+																				},
+																				{
+																					"name": "Krishna Gopak",
+																					"size": 2000
+																				}
+																			]
+																		},
+																		{
+																			"name": "Dwarka Das",
+																			"children": [
+																				{
+																					"name": "Shiv Kumar",
+																					"size": 2000
+																				}
+																			]
+																		},
+																		{
+																			"name": "Amar Nath",
+																			"size": 2000
+																		}
+																	]
+																},
+																{
+																	"name": "Gopi Ram",
+																	"size": 2000
+																}
+															]
+														}
+													]
+												},
+												{
+													"name": "Aatmaa Ram",
+													"children": [
+														{
+															"name": "Mela Ram",
+															"size": 2000
+														},
+														{
+															"name": "Sant Ram",
+															"size": 2000
+														},
+														{
+															"name": "Mangat Ram",
+															"children": [
+																{
+																	"name": "Namaloom?",
+																	"size": 2000
+																},
+																{
+																	"name": "Raadhe Mohan",
+																	"size": 2000
+																}
+															]
+														},
+														{
+															"name": "Kaavan Chand",
+															"size": 2000
+														},
+														{
+															"name": "Tek Chand",
+															"children": [
+																{
+																	"name": "Shori Lal",
+																	"children": [
+																		{
+																			"name": "Bhola Nath",
+																			"size": 2000
+																		}
+																	]
+																},
+																{
+																	"name": "Ram Sharan",
+																	"children": [
+																		{
+																			"name": "Raj kumar",
+																			"size": 2000
+																		},
+																		{
+																			"name": "Chunni Lal",
+																			"size": 2000
+																		}
+																	]
+																},
+																{
+																	"name": "Shoga Ram",
+																	"children": [
+																		{
+																			"name": "Kewal Krishan",
+																			"children": [
+																				{
+																					"name": "Rabindra Kumar",
+																					"size": 2000
+																				}
+																			]
+																		}
+																	]
+																},
+																{
+																	"name": "Rambi Das",
+																	"children": [
+																		{
+																			"name": "Om Praksash",
+																			"children": [
+																				{
+																					"name": "Vinod Kumar",
+																					"size": 2000
+																				}
+																			]
+																		}
+																	]
+																},
+																{
+																	"name": "Nihal Chand",
+																	"size": 2000
+																},
+																{
+																	"name": "Sahelu Mal",
+																	"size": 2000
+																}
+															]
+														}
+													]
+												}
+											]
+										},
+										{
+											"name": "Khushaal mal",
+											"children": [
+												{
+													"name": "Mahesh Mal",
+													"children": [
+														{
+															"name": "Devi Ditta Mal",
+															"children": [
+																{
+																	"name": "Janki Das Kapoor",
+																	"children": [
+																		{
+																			"name": "Sanjeev Kapoor",
+																			"size": 2000
+																		},
+																		{
+																			"name": "Manish Kapoor",
+																			"children": [
+																				{
+																					"name": "Bhavya",
+																					"size": 2000
+																				},
+																				{
+																					"name": "Anshuman",
+																					"size": 2000
+																				}
+																			]
+																		}
+																	]
+																},
+																{
+																	"name": "Dwarka Das Kapoor",
+																	"children": [
+																		{
+																			"name": "Jugal Kishore",
+																			"children": [
+																				{
+																					"name": "Sanjay Kapoor",
+																					"children": [
+																						{
+																							"name": "Ganesh"
+																						}
+																					]
+																				}
+																			]
+																		},
+																		{
+																			"name": "Joginder Mohan",
+																			"size": 2000
+																		},
+																		{
+																			"name": "Kamal Kishore",
+																			"children": [
+																				{
+																					"name": "Aman Kapoor",
+																					"size": 2000
+																				}
+																			]
+																		},
+																		{
+																			"name": "Desh Deepak",
+																			"size": 2000
+																		},
+																		{
+																			"name": "Varinder",
+																			"children": [
+																				{
+																					"name": "Amit Kapoor",
+																					"size": 2000
+																				}
+																			]
+																		},
+																		{
+																			"name": "Krishan",
+																			"size": 2000
+																		}
+																	]
+																},
+																{
+																	"name": "Vaishno Das Kapoor",
+																	"children": [
+																		{
+																			"name": "Hari Krishan",
+																			"children": [
+																				{
+																					"name": "Kapil Kapoor",
+																					"children": [
+																						{
+																							"name": "Pooja Kapoor",
+																							"children": [
+																								{
+																									"name": "Hargun",
+																									"size": 2000
+																								},
+																								{
+																									"name": "Ridhi Kapoor",
+																									"size": 2000
+																								}
+																							]
+																						}
+																					]
+																				},
+																				{
+																					"name": "Pawan Kapoor",
+																					"children": [
+																						{
+																							"name": "Rishab Kapoor",
+																							"size": 2000
+																						}
+																					]
+																				}
+																			]
+																		}
+																	]
+																}
+															]
+														},
+														{
+															"name": "Tulsi Dass",
+															"children": [
+																{
+																	"name": "Madan Lal",
+																	"children": [
+																		{
+																			"name": "Manmohan",
+																			"children": [
+																				{
+																					"name": "Bismil Dass Kapoor",
+																					"size": 2000
+																				}
+																			]
+																		}
+																	]
+																},
+																{
+																	"name": "Sham Lal",
+																	"children": [
+																		{
+																			"name": "Roop Kumar",
+																			"children": [
+																				{
+																					"name": "Brij Mohan",
+																					"size": 2000
+																				},
+																				{
+																					"name": "Om",
+																					"size": 2000
+																				}
+																			]
+																		}
+																	]
+																},
+																{
+																	"name": "Lakshman Dass",
+																	"children": [
+																		{
+																			"name": "Deepak Kumar",
+																			"size": 2000
+																		}
+																	]
+																},
+																{
+																	"name": "Ram Chand",
+																	"children": [
+																		{
+																			"name": "Vishwa Nath",
+																			"children": [
+																				{
+																					"name": "Ashok Kumar",
+																					"size": 2000
+																				},
+																				{
+																					"name": "Lalit Mohan",
+																					"size": 2000
+																				}
+																			]
+																		},
+																		{
+																			"name": "Chaman Lal",
+																			"size": 2000
+																		}
+																	]
+																},
+																{
+																	"name": "Ram Lubhaya",
+																	"children": [
+																		{
+																			"name": "Shiv Kumar",
+																			"children": [
+																				{
+																					"name": "Renu",
+																					"size": 2000
+																				},
+																				{
+																					"name": "Jiya Lal",
+																					"size": 2000
+																				}
+																			]
+																		},
+																		{
+																			"name": "Krishna Kumar",
+																			"children": [
+																				{
+																					"name": "Vinod Kumar",
+																					"size": 2000
+																				}
+																			]
+																		}
+																	]
+																}
+															]
+														}
+													]
+												},
+												{
+													"name": "Revri Mal",
+													"size": 2000
+												},
+												{
+													"name": "Roop Lal",
+													"children": [
+														{
+															"name": "Sant Ram",
+															"size": 2000
+														},
+														{
+															"name": "Sona Ram",
+															"children": [
+																{
+																	"name": "Kasooriya Mal",
+																	"children": [
+																		{
+																			"name": "Satpal",
+																			"size": 2000
+																		},
+																		{
+																			"name": "Sunder Dass",
+																			"size": 2000
+																		},
+																		{
+																			"name": "Jwahar Lal",
+																			"size": 2000
+																		}
+																	]
+																}
+															]
+														}
+													]
+												},
+												{
+													"name": "Devi Sahay",
+													"size": 2000
+												},
+												{
+													"name": "Hakeem Rai",
+													"children": [
+														{
+															"name": "Mani Lal",
+															"children": [
+																{
+																	"name": "Chaman Lal",
+																	"size": 2000
+																}
+															]
+														},
+														{
+															"name": "Ghaseeta Mal",
+															"children": [
+																{
+																	"name": "Ram Simran",
+																	"size": 2000
+																},
+																{
+																	"name": "Dharam Chand",
+																	"children": [
+																		{
+																			"name": "Namaloom?",
+																			"size": 2000
+																		}
+																	]
+																},
+																{
+																	"name": "Kishan Chand",
+																	"size": 2000
+																},
+																{
+																	"name": "Ram Gopal",
+																	"children": [
+																		{
+																			"name": "Prem Nath",
+																			"size": 2000
+																		},
+																		{
+																			"name": "Namaloom?",
+																			"size": 2000
+																		}
+																	]
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"name": "Mari Mal",
+							"size": 2000
+						}
+					]
+				},
+				{
+					"name": "Jagan Nath",
+					"size": 2000
+				},
+				{
+					"name": "Jaspal Rai",
+					"size": 2000
+				}
+			]
+		},
+		{
+			"name": "Izzat Rai",
+			"size": 2000
+		}
+	]
+}
