@@ -4,6 +4,12 @@
 <meta name="viewport" content="width=device-width,initial-scale=0.5,user-scalable=no">
 <style>
   /* Make the image fully responsive */
+  .body {
+    background-color: #a88932;
+  }
+  .container-fluid {
+    max-width: "100%"
+  }
   .carousel-inner img {
     width: 100%;
     height: 600px;
@@ -22,7 +28,7 @@
 .column {
   -ms-flex: 50%; /* IE10 */
   flex: 25%;
-  max-width: 35%;
+  max-width: 25%;
   padding: 0 20px;
 }
 
@@ -40,7 +46,7 @@
   .column {
     -ms-flex: 50%;
     flex: 50%;
-    max-width: 50%;
+    max-width: 20%;
   }
 }
 
@@ -94,6 +100,7 @@
 <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+<link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet"> 
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
 <script src="https://d3js.org/d3.v3.min.js"></script>
 <script src="kapTree.js"></script>
@@ -108,23 +115,28 @@
         <li class="nav-item"><a class="nav-link" href="#gallery">Gallery</a></li>
       </ul>
   </nav> 
-  <div class="container-fluid" style="margin: 0px" id="tree-container"></div>
-  <div class="card bg-secondary text-white" style="margin: 15px">
-    <div class="card-body"><b style="font: 20px;font-family: 'Bahianita';">Relishing Memories</b></div>
+  <div class="container-fluid" style="margin-top: 15px" id="tree-container"></div>
+  <div class="card bg-warning text-white" style="margin: 15px">
+    <div class="card-body"><b style="font-size: 32px;font-family: 'Lobster', cursive;">Relishing Sweet Memories . . .</b></div>
   </div>
   <div id="gallery">
   <div class="jumbrotron jumbotron-fluid" style="margin-right: 15px; margin-left: 15px; background:#494c52; !important" id="collage">
     <div class="row"> 
       <div class="column">
-        <img src="./img/my-naanima-and-naanooji-full-tashan.jpeg" style="width:100%">
+        <img src="./img/shri-devi-ditta-mal-kapoor-ji.jpeg" style="width:100%; height: 150px">
+        <img src="./img/smt-durga-devi-kapoor-ji.jpeg" style="width:100%; height: 175px">
+        <img src="./img/Shanti-Bua-Rajpal-ji.jpeg" style="width:100%; height: 200px">
+      </div>
+      <div class="column">
+        <img src="./img/my-naanima-and-naanooji-full-tashan.jpeg" style="width:100%; height: 250px; margin-top: 25px">
         <img src="./img/kamal-gulshan.png" style="width:100%; height: 250px">
       </div>
       <div class="column">
-        <img src="./img/madhi-papa-ji-and-uma-bhua-tashan.jpeg" style="width:100%; height: 575px">
+        <img src="./img/madhi-papa-ji-and-uma-bhua-tashan.jpeg" style="width:100%; height: 550px; margin-bottom: 10px">
       </div>
       <div class="column">
-        <img src="./img/jagdish-chand-mehra-ji.jpeg" style="width:100%;height: 275px">
-        <img src="./img/shri-prem-nath-mehra-ji.jpeg" style="width:100%; height: 275px">
+        <img src="./img/jagdish-chand-mehra-ji.jpeg" style="width:100%;height: 260px">
+        <img src="./img/shri-prem-nath-mehra-ji.jpeg" style="width:100%; height: 260px">
       </div>
     </div>
   </div>
@@ -141,35 +153,35 @@
           <img src="./img/group-pic-old.jpeg" alt="old-tony" width="100%" height="100">
           <div class="carousel-caption">
             <h3 style="color:black">Kapoors, Seths and Mehras, Together!</h3>
-            <p style="color:grey"><b>Vaishno Das ji Kapoor, Shanti Seth Bhuaji, Taro Mehra Bhuaji</b></p>
+            <p style="color:#020b1a"><b>Vaishno Das ji Kapoor, Shanti Seth Bhuaji, Taro Mehra Bhuaji</b></p>
           </div>   
         </div>
         <div class="carousel-item">
           <img src="./img/the-mehra-family.jpeg" alt="old-mehra" width="100%" height="100">
           <div class="carousel-caption">
-            <h3>The Mehra's</h3>
-            <p>Kailash Bhua Ji's Family :)</p>
+            <h3 style="color:black">The Mehra's</h3>
+            <p style="color:#020b1a"><b>Kailash Bhua Ji's Family :)</b></p>
           </div>   
         </div>
         <div class="carousel-item">
           <img src="./img/janki-dass-kapur-family.jpeg" alt="old-JD-Kapoor" width="100%" height="100">
           <div class="carousel-caption">
-            <h3>Janki Dass Kapoor's Family</h3>
-            <p>Kamlesh Kapoor, Manish Kapoor, Mansi Kapoor, and Bhavya, Anshuman</p>
+            <h3 style="color:black">Janki Dass Kapoor's Family</h3>
+            <p style="color:#020b1a"><b>Kamlesh Kapoor, Manish Kapoor, Mansi Kapoor, and Bhavya, Anshuman</b></p>
           </div>   
         </div>
         <div class="carousel-item">
           <img src="./img/tony-neeru.jpeg" alt="Tony-Neeru" width="100%" height="100">
           <div class="carousel-caption">
-            <h3>The Dashing Kapoor's</h3>
-            <p>Sweet Couple <3</p>
+            <h3 style="color:black">The Dashing Kapoor's</h3>
+            <p style="color:#020b1a"><b>Sweet Couple <3</b></p>
           </div>   
         </div>
         <div class="carousel-item">
           <img src="./img/naya-daur-new-generation.jpeg" alt="new-Pawan" width="100%" height="100">
           <div class="carousel-caption">
-            <h3>The Young Kapoor's</h3>
-            <p>NNaya Daur, Nayi Generation</p>
+            <h3 style="color:black">The Young Kapoor's</h3>
+            <p style="color:#020b1a"><b>Naya Daur, Nayi Generation</b></p>
           </div>   
         </div>
       </div>

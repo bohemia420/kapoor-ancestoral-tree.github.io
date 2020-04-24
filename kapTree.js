@@ -144,7 +144,7 @@ treeJSON = d3.json("kapoors.json", function(error, treeData) {
         //.attr("width", viewerWidth)
         //.attr("height", viewerHeight)
         .attr("preserveAspectRatio", "xMinYMin meet")
-		.attr("viewBox", "10 10 960 520")
+		.attr("viewBox", "0 0 1000 720")
         .attr("class", "overlay")
         .attr("margin", "0px")
         .call(zoomListener);
