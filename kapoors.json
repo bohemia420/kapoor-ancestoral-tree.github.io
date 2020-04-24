@@ -3,32 +3,32 @@
 	"children": [
 		{
 			"name": "Udho Dass",
-			"size": 200
+			"size": 20
 		},
 		{
 			"name": "Bhajanas Rai",
 			"children": [
 				{
 					"name": "Snam Rai",
-					"size": 200
+					"size": 20
 				},
 				{
 					"name": "Harnath",
-					"size": 200
+					"size": 20
 				},
 				{
 					"name": "Dass Mal",
 					"children": [
 						{
 							"name": "Ram Sahai",
-							"size": 200
+							"size": 20
 						},
 						{
 							"name": "Moti Ram",
 							"children": [
 								{
 									"name": "Bilas Rai",
-									"size": 200
+									"size": 20
 								},
 								{
 									"name": "Mohri Mal",
@@ -38,7 +38,7 @@
 											"children": [
 												{
 													"name": "Gulzari Lal",
-													"size": 200
+													"size": 20
 												},
 												{
 													"name": "Heera Lal",
@@ -48,11 +48,11 @@
 															"children": [
 																{
 																	"name": "Bhagwan Das",
-																	"size": 200
+																	"size": 20
 																},
 																{
 																	"name": "Mahendra Sen",
-																	"size": 200
+																	"size": 20
 																},
 																{
 																	"name": "Amar Nath",
@@ -62,11 +62,11 @@
 																			"children": [
 																				{
 																					"name": "Manmohan",
-																					"size": 200
+																					"size": 20
 																				},
 																				{
 																					"name": "Raj Kumar",
-																					"size": 200
+																					"size": 20
 																				}
 																			]
 																		},
@@ -75,11 +75,11 @@
 																			"children": [
 																				{
 																					"name": "Surendra Mohan",
-																					"size": 200
+																					"size": 20
 																				},
 																				{
 																					"name":"Brij Mohan",
-																					"size": 200
+																					"size": 20
 																				}
 																			]
 																		}
@@ -92,7 +92,7 @@
 															"children": [
 																{
 																	"name": "Narayan Das",
-																	"size": 200
+																	"size": 20
 																}
 															]
 														}
@@ -103,7 +103,7 @@
 													"children": [
 														{
 															"name": "Daulat Ram",
-															"size": 200
+															"size": 20
 														},
 														{
 															"name": "Veeru Mal",
@@ -113,15 +113,15 @@
 																	"children": [
 																		{
 																			"name": "Raj Kumar",
-																			"size": 200
+																			"size": 20
 																		},
 																		{
 																			"name": "Prem Kumar",
-																			"size": 200
+																			"size": 20
 																		},
 																		{
 																			"name": "Veer Kumar",
-																			"size": 200
+																			"size": 20
 																		}
 																	]
 																}
@@ -139,7 +139,7 @@
 													"children": [
 														{
 															"name": "AmeerChand",
-															"size": 200
+															"size": 20
 														},
 														{
 															"name": "MoolChand",
@@ -149,27 +149,27 @@
 																	"children": [
 																		{
 																			"name": "Pran Nath",
-																			"size": 200
+																			"size": 20
 																		},
 																		{
 																			"name": "Harbans Lal",
 																			"children": [
 																				{
 																					"name": "Ravindra Lal",
-																					"size": 200
+																					"size": 20
 																				}
 																			]
 																		},
 																		{
 																			"name": "Raj Kumar",
-																			"size": 200
+																			"size": 20
 																		},
 																		{
 																			"name": "Prem Nath",
 																			"children": [
 																				{
 																					"name": "Pramod",
-																					"size": 200
+																					"size": 20
 																				}
 																			]
 																		}
@@ -183,60 +183,60 @@
 																			"children": [
 																				{
 																					"name": "Ravi Kumar",
-																					"size": 200
+																					"size": 20
 																				},
 																				{
 																					"name": "Rajan",
-																					"size": 200
+																					"size": 20
 																				}
 																			]
 																		},
 																		{
 																			"name": "Narendra Nath",
-																			"size": 200
+																			"size": 20
 																		},
 																		{
 																			"name": "Surendra Nath",
-																			"size": 200
+																			"size": 20
 																		},
 																		{
 																			"name": "Kailash Kumar",
-																			"size": 200
+																			"size": 20
 																		}
 																	]
 																},
 																{
 																	"name": "Manak Chand",
-																	"size": 200
+																	"size": 20
 																},
 																{
 																	"name": "Husn Dyal",
 																	"children": [
 																		{
 																			"name": "Namaloom?",
-																			"size": 200
+																			"size": 20
 																		},
 																		{
 																			"name": "Saran Das",
-																			"size": 200
+																			"size": 20
 																		},
 																		{
 																			"name": "Kali Charan",
-																			"size": 200
+																			"size": 20
 																		},
 																		{
 																			"name": "Charanjeet",
-																			"size": 200
+																			"size": 20
 																		}
 																	]
 																},
 																{
 																	"name": "Manohar Lal",
-																	"size": 200
+																	"size": 20
 																},
 																{
 																	"name": "Chaman Lal",
-																	"size": 200
+																	"size": 20
 																}
 
 															]
@@ -249,7 +249,7 @@
 																	"children": [
 																		{
 																			"name": "Bhole Kumar",
-																			"size": 200
+																			"size": 20
 																		}
 																	]
 																},
@@ -258,7 +258,7 @@
 																	"children": [
 																		{
 																			"name": "Vinod Kumar",
-																			"size": 200
+																			"size": 20
 																		}
 																	]
 																}
@@ -277,17 +277,17 @@
 																	"children": [
 																		{
 																			"name": "Avtar Krishan",
-																			"size": 200
+																			"size": 20
 																		},
 																		{
 																			"name": "Kewal Krishan",
-																			"size": 200
+																			"size": 20
 																		}
 																	]
 																},
 																{
 																	"name": "Sham Das",
-																	"size": 200
+																	"size": 20
 																}
 															]
 														}
@@ -304,19 +304,19 @@
 																	"children": [
 																		{
 																			"name": "Raman Prakash",
-																			"size": 200
+																			"size": 20
 																		},
 																		{
 																			"name": "Kranti Prakash",
-																			"size": 200
+																			"size": 20
 																		},
 																		{
 																			"name": "Rajendra Kumar",
-																			"size": 200
+																			"size": 20
 																		},
 																		{
 																			"name": "Ram Prakash",
-																			"size": 200
+																			"size": 20
 																		}
 																	]
 																},
@@ -325,7 +325,7 @@
 																	"children": [
 																		{
 																			"name": "Om Prakash",
-																			"size": 200
+																			"size": 20
 																		}
 																	]
 																},
@@ -334,15 +334,15 @@
 																	"children": [
 																		{
 																			"name": "Chaman Lal",
-																			"size": 200
+																			"size": 20
 																		},
 																		{
 																			"name": "Banwari Lal",
-																			"size": 200
+																			"size": 20
 																		},
 																		{
 																			"name": "Amrit Lal",
-																			"size": 200
+																			"size": 20
 																		}
 																	]
 																}
@@ -357,7 +357,7 @@
 											"children": [
 												{
 													"name": "Ram Dyal",
-													"size": 200
+													"size": 20
 												},
 												{
 													"name": "Daya Ram",
@@ -370,7 +370,7 @@
 																	"children": [
 																		{
 																			"name": "Panna Mal",
-																			"size": 200
+																			"size": 20
 																		}
 																	]
 																},
@@ -382,7 +382,7 @@
 																			"children": [
 																				{
 																					"name": "Shiv Bhola Nath",
-																					"size": 200
+																					"size": 20
 																				}
 																			]
 																		},
@@ -391,7 +391,7 @@
 																			"children": [
 																				{
 																					"name": "Kalu Ram",
-																					"size": 200
+																					"size": 20
 																				}
 																			]
 																		},
@@ -400,44 +400,44 @@
 																			"children": [
 																				{
 																					"name": "Susheetal Kumar",
-																					"size": 200
+																					"size": 20
 																				},
 																				{
 																					"name": "Surendra Kumar",
-																					"size": 200
+																					"size": 20
 																				},
 																				{
 																					"name": "Sudarshan Kumar",
-																					"size": 200
+																					"size": 20
 																				}
 																			]
 																		},
 																		{
 																			"name": "Mahakam Chand",
-																			"size": 200
+																			"size": 20
 																		},
 																		{
 																			"name": "Peshawari Lal",
 																			"children": [
 																				{
 																					"name": "Krishna Kumar",
-																					"size": 200
+																					"size": 20
 																				},
 																				{
 																					"name": "Raj Kumar",
-																					"size": 200
+																					"size": 20
 																				},
 																				{
 																					"name": "Satya Pal",
-																					"size": 200
+																					"size": 20
 																				},
 																				{
 																					"name": "Govind Ram",
-																					"size": 200
+																					"size": 20
 																				},
 																				{
 																					"name": "Chaman Lal",
-																					"size": 200
+																					"size": 20
 																				}
 																			]
 																		}
@@ -450,12 +450,12 @@
 																			"name": "Sai Das",
 																			"children": [
 																				{
-																					"name": ";Lekh Raj",
-																					"size": 200
+																					"name": "Lekh Raj",
+																					"size": 20
 																				},
 																				{
 																					"name": "Jagannath",
-																					"size": 200
+																					"size": 20
 																				}
 																			]
 																		}
@@ -471,18 +471,18 @@
 																	"children": [
 																		{
 																			"name": "Roshan Lal",
-																			"size": 200
+																			"size": 20
 																		},
 																		{
 																			"name": "Madan Lal",
 																			"children": [
 																				{
 																					"name": "Manohar Lal",
-																					"size": 200
+																					"size": 20
 																				},
 																				{
 																					"name": "Krishna Gopak",
-																					"size": 200
+																					"size": 20
 																				}
 																			]
 																		},
@@ -491,19 +491,19 @@
 																			"children": [
 																				{
 																					"name": "Shiv Kumar",
-																					"size": 200
+																					"size": 20
 																				}
 																			]
 																		},
 																		{
 																			"name": "Amar Nath",
-																			"size": 200
+																			"size": 20
 																		}
 																	]
 																},
 																{
 																	"name": "Gopi Ram",
-																	"size": 200
+																	"size": 20
 																}
 															]
 														}
@@ -514,28 +514,28 @@
 													"children": [
 														{
 															"name": "Mela Ram",
-															"size": 200
+															"size": 20
 														},
 														{
 															"name": "Sant Ram",
-															"size": 200
+															"size": 20
 														},
 														{
 															"name": "Mangat Ram",
 															"children": [
 																{
 																	"name": "Namaloom?",
-																	"size": 200
+																	"size": 20
 																},
 																{
 																	"name": "Raadhe Mohan",
-																	"size": 200
+																	"size": 20
 																}
 															]
 														},
 														{
 															"name": "Kaavan Chand",
-															"size": 200
+															"size": 20
 														},
 														{
 															"name": "Tek Chand",
@@ -545,7 +545,7 @@
 																	"children": [
 																		{
 																			"name": "Bhola Nath",
-																			"size": 200
+																			"size": 20
 																		}
 																	]
 																},
@@ -554,11 +554,11 @@
 																	"children": [
 																		{
 																			"name": "Raj kumar",
-																			"size": 200
+																			"size": 20
 																		},
 																		{
 																			"name": "Chunni Lal",
-																			"size": 200
+																			"size": 20
 																		}
 																	]
 																},
@@ -570,7 +570,7 @@
 																			"children": [
 																				{
 																					"name": "Rabindra Kumar",
-																					"size": 200
+																					"size": 20
 																				}
 																			]
 																		}
@@ -584,7 +584,7 @@
 																			"children": [
 																				{
 																					"name": "Vinod Kumar",
-																					"size": 200
+																					"size": 20
 																				}
 																			]
 																		}
@@ -592,11 +592,11 @@
 																},
 																{
 																	"name": "Nihal Chand",
-																	"size": 200
+																	"size": 20
 																},
 																{
 																	"name": "Sahelu Mal",
-																	"size": 200
+																	"size": 20
 																}
 															]
 														}
@@ -618,18 +618,18 @@
 																	"children": [
 																		{
 																			"name": "Sanjeev Kapoor",
-																			"size": 200
+																			"size": 20
 																		},
 																		{
 																			"name": "Manish Kapoor",
 																			"children": [
 																				{
 																					"name": "Bhavya",
-																					"size": 200
+																					"size": 20
 																				},
 																				{
 																					"name": "Anshuman",
-																					"size": 200
+																					"size": 20
 																				}
 																			]
 																		}
@@ -653,33 +653,33 @@
 																		},
 																		{
 																			"name": "Joginder Mohan",
-																			"size": 200
+																			"size": 20
 																		},
 																		{
 																			"name": "Kamal Kishore",
 																			"children": [
 																				{
 																					"name": "Aman Kapoor",
-																					"size": 200
+																					"size": 20
 																				}
 																			]
 																		},
 																		{
 																			"name": "Desh Deepak",
-																			"size": 200
+																			"size": 20
 																		},
 																		{
 																			"name": "Varinder",
 																			"children": [
 																				{
 																					"name": "Amit Kapoor",
-																					"size": 200
+																					"size": 20
 																				}
 																			]
 																		},
 																		{
 																			"name": "Krishan",
-																			"size": 200
+																			"size": 20
 																		}
 																	]
 																},
@@ -697,13 +697,13 @@
 																							"children": [
 																								{
 																									"name": "Hargun",
-																									"size": 200
+																									"size": 20
 																								}
 																							]
 																						},
 																						{
 																									"name": "Ridhi Kapoor",
-																									"size": 200
+																									"size": 20
 																						}
 																					]
 																				},
@@ -712,7 +712,7 @@
 																					"children": [
 																						{
 																							"name": "Rishab Kapoor",
-																							"size": 200
+																							"size": 20
 																						}
 																					]
 																				}
@@ -733,7 +733,7 @@
 																			"children": [
 																				{
 																					"name": "Bismil Dass Kapoor",
-																					"size": 200
+																					"size": 20
 																				}
 																			]
 																		}
@@ -747,11 +747,11 @@
 																			"children": [
 																				{
 																					"name": "Brij Mohan",
-																					"size": 200
+																					"size": 20
 																				},
 																				{
 																					"name": "Om",
-																					"size": 200
+																					"size": 20
 																				}
 																			]
 																		}
@@ -762,7 +762,7 @@
 																	"children": [
 																		{
 																			"name": "Deepak Kumar",
-																			"size": 200
+																			"size": 20
 																		}
 																	]
 																},
@@ -774,17 +774,17 @@
 																			"children": [
 																				{
 																					"name": "Ashok Kumar",
-																					"size": 200
+																					"size": 20
 																				},
 																				{
 																					"name": "Lalit Mohan",
-																					"size": 200
+																					"size": 20
 																				}
 																			]
 																		},
 																		{
 																			"name": "Chaman Lal",
-																			"size": 200
+																			"size": 20
 																		}
 																	]
 																},
@@ -796,11 +796,11 @@
 																			"children": [
 																				{
 																					"name": "Renu",
-																					"size": 200
+																					"size": 20
 																				},
 																				{
 																					"name": "Jiya Lal",
-																					"size": 200
+																					"size": 20
 																				}
 																			]
 																		},
@@ -809,7 +809,7 @@
 																			"children": [
 																				{
 																					"name": "Vinod Kumar",
-																					"size": 200
+																					"size": 20
 																				}
 																			]
 																		}
@@ -821,14 +821,14 @@
 												},
 												{
 													"name": "Revri Mal",
-													"size": 200
+													"size": 20
 												},
 												{
 													"name": "Roop Lal",
 													"children": [
 														{
 															"name": "Sant Ram",
-															"size": 200
+															"size": 20
 														},
 														{
 															"name": "Sona Ram",
@@ -838,15 +838,15 @@
 																	"children": [
 																		{
 																			"name": "Satpal",
-																			"size": 200
+																			"size": 20
 																		},
 																		{
 																			"name": "Sunder Dass",
-																			"size": 200
+																			"size": 20
 																		},
 																		{
 																			"name": "Jwahar Lal",
-																			"size": 200
+																			"size": 20
 																		}
 																	]
 																}
@@ -856,7 +856,7 @@
 												},
 												{
 													"name": "Devi Sahay",
-													"size": 200
+													"size": 20
 												},
 												{
 													"name": "Hakeem Rai",
@@ -866,7 +866,7 @@
 															"children": [
 																{
 																	"name": "Chaman Lal",
-																	"size": 200
+																	"size": 20
 																}
 															]
 														},
@@ -875,31 +875,31 @@
 															"children": [
 																{
 																	"name": "Ram Simran",
-																	"size": 200
+																	"size": 20
 																},
 																{
 																	"name": "Dharam Chand",
 																	"children": [
 																		{
 																			"name": "Namaloom?",
-																			"size": 200
+																			"size": 20
 																		}
 																	]
 																},
 																{
 																	"name": "Kishan Chand",
-																	"size": 200
+																	"size": 20
 																},
 																{
 																	"name": "Ram Gopal",
 																	"children": [
 																		{
 																			"name": "Prem Nath",
-																			"size": 200
+																			"size": 20
 																		},
 																		{
 																			"name": "Namaloom?",
-																			"size": 200
+																			"size": 20
 																		}
 																	]
 																}
@@ -915,23 +915,23 @@
 						},
 						{
 							"name": "Mari Mal",
-							"size": 200
+							"size": 20
 						}
 					]
 				},
 				{
 					"name": "Jagan Nath",
-					"size": 200
+					"size": 20
 				},
 				{
 					"name": "Jaspal Rai",
-					"size": 200
+					"size": 20
 				}
 			]
 		},
 		{
 			"name": "Izzat Rai",
-			"size": 200
+			"size": 20
 		}
 	]
 }

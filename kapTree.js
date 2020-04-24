@@ -1,6 +1,4 @@
 treeJSON = d3.json("kapoors.json", function(error, treeData) {
-	console.log(treeData);
-
     // Calculate total nodes, max label length
     var totalNodes = 0;
     var maxLabelLength = 0;
@@ -8,8 +6,8 @@ treeJSON = d3.json("kapoors.json", function(error, treeData) {
     var selectedNode = null;
     var draggingNode = null;
     // panning variables
-    var panSpeed = 200;
-    var panBoundary = 20; // Within 20px from edges will pan when dragging.
+    var panSpeed = 100;
+    var panBoundary = 10; // Within 20px from edges will pan when dragging.
     // Misc. variables
     var i = 0;
     var duration = 750;
@@ -62,9 +60,7 @@ treeJSON = d3.json("kapoors.json", function(error, treeData) {
         });
     }
     // Sort the tree initially incase the JSON isn't in a sorted order.
-    sortTree();
-
-    // TODO: Pan function, can be better implemented.
+    //sortTree();
 
     function pan(domNode, direction) {
         var speed = panSpeed;
@@ -145,8 +141,10 @@ treeJSON = d3.json("kapoors.json", function(error, treeData) {
 
     // define the baseSvg, attaching a class for styling and the zoomListener
     var baseSvg = d3.select("#tree-container").append("svg")
-        .attr("width", viewerWidth)
-        .attr("height", viewerHeight)
+        //.attr("width", viewerWidth)
+        //.attr("height", viewerHeight)
+        .attr("preserveAspectRatio", "xMinYMin meet")
+		.attr("viewBox", "10 10 960 500")
         .attr("class", "overlay")
         .call(zoomListener);
 
@@ -304,8 +302,8 @@ treeJSON = d3.json("kapoors.json", function(error, treeData) {
         scale = zoomListener.scale();
         x = -source.y0;
         y = -source.x0;
-        x = x * scale + viewerWidth / 2;
-        y = y * scale + viewerHeight / 2;
+        x = x * scale + viewerWidth / 16;
+        y = y * scale + viewerHeight / 16;
         d3.select('g').transition()
             .duration(duration)
             .attr("transform", "translate(" + x + "," + y + ")scale(" + scale + ")");
@@ -352,7 +350,7 @@ treeJSON = d3.json("kapoors.json", function(error, treeData) {
             }
         };
         childCount(0, root);
-        var newHeight = d3.max(levelWidth) * 25; // 25 pixels per line  
+        var newHeight = d3.max(levelWidth) * 15; // 25 pixels per line  
         tree = tree.size([newHeight, viewerWidth]);
 
         // Compute the new tree layout.
@@ -361,9 +359,7 @@ treeJSON = d3.json("kapoors.json", function(error, treeData) {
 
         // Set widths between levels based on maxLabelLength.
         nodes.forEach(function(d) {
-            d.y = (d.depth * (maxLabelLength * 10)); //maxLabelLength * 10px
-            // alternatively to keep a fixed scale one can set a fixed depth per level
-            // Normalize for fixed-depth by commenting out below line
+            d.y = (d.depth * (maxLabelLength * 4));
             // d.y = (d.depth * 500); //500px per level.
         });
 
