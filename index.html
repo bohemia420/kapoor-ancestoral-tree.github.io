@@ -1,7 +1,57 @@
 <!DOCTYPE html>
 <meta charset="utf-8">
 <head>
+<meta name="viewport" content="width=device-width,initial-scale=0.5,user-scalable=no">
+<style>
+  /* Make the image fully responsive */
+  .carousel-inner img {
+    width: 100%;
+    height: 600px;
+  }
+  </style>
 <style type="text/css">
+  .row {
+  display: -ms-flexbox; /* IE10 */
+  display: flex;
+  -ms-flex-wrap: wrap; /* IE10 */
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+/* Create four equal columns that sits next to each other */
+.column {
+  -ms-flex: 50%; /* IE10 */
+  flex: 25%;
+  max-width: 35%;
+  padding: 0 20px;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+  width: 100%;
+  border-radius: 15px 50px;
+  background: #211c1b;
+  padding: 10px;
+}
+
+/* Responsive layout - makes a two column-layout instead of four columns */
+@media screen and (max-width: 800px) {
+  .column {
+    -ms-flex: 50%;
+    flex: 50%;
+    max-width: 50%;
+  }
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    -ms-flex: 100%;
+    flex: 100%;
+    max-width: 100%;
+  }
+}
   .node {
     cursor: pointer;
   }
@@ -39,28 +89,103 @@
   }
 
 </style>
+<link rel="stylesheet" href="./static/css/blueimp-gallery.min.css" />
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Tangerine">
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
 <script src="https://d3js.org/d3.v3.min.js"></script>
 <script src="kapTree.js"></script>
 </head>
 <body>
-  <nav class="navbar navbar-inverse navbar-static-top ml-auto">
-    <div class="container">
-      <div class="navbar-header navbar-left">
-        <img src="./kapoor-logo.png" height="40" width="160" alt="Kapoors">
-        <a style="color: green;" href="#" class="btn btn-dark btn-lg mr-auto"><span style="font-size:18px;" class="glyphicon glyphicon-tree-deciduous"></span></a>
-      </div>
-      <ul class="nav navbar-nav">
-        <li class="active"><a href="#">Tree</a></li>
-        <li><a href="#gallery">Gallery</a></li>
+  <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+      <ul class="navbar-nav">
+        <li class="nav-item"><img src="./kapoor-logo.png" height="40" width="160" alt="Kapoors"></li>
+        <li class="nav-item"><a style="color: green;" href="#" class="btn btn-dark btn-lg mr-auto"><span style="font-size:18px;" class="glyphicon glyphicon-tree-deciduous"></span></a></li>
+        <li class="nav-item"><i class="fa fa-tree" aria-hidden="true"></i></li>
+        <li class="active"><a class="nav-link" href="#">Tree</a></li>
+        <li class="nav-item"><a class="nav-link" href="#gallery">Gallery</a></li>
       </ul>
-    </div>
   </nav> 
-  <div class="container-fluid" id="tree-container"></div>
-  <div class="jumbrotron" id="gallery">
+  <div class="container-fluid" style="margin: 0px" id="tree-container"></div>
+  <div class="card bg-secondary text-white" style="margin: 15px">
+    <div class="card-body"><b style="font: 20px;font-family: 'Bahianita';">Relishing Memories</b></div>
+  </div>
+  <div id="gallery">
+  <div class="jumbrotron jumbotron-fluid" style="margin-right: 15px; margin-left: 15px; background:#494c52; !important" id="collage">
+    <div class="row"> 
+      <div class="column">
+        <img src="./img/my-naanima-and-naanooji-full-tashan.jpeg" style="width:100%">
+        <img src="./img/kamal-gulshan.png" style="width:100%; height: 250px">
+      </div>
+      <div class="column">
+        <img src="./img/madhi-papa-ji-and-uma-bhua-tashan.jpeg" style="width:100%; height: 575px">
+      </div>
+      <div class="column">
+        <img src="./img/jagdish-chand-mehra-ji.jpeg" style="width:100%;height: 275px">
+        <img src="./img/shri-prem-nath-mehra-ji.jpeg" style="width:100%; height: 275px">
+      </div>
+    </div>
+  </div>
+    <div id="demo" class="carousel slide" data-ride="carousel" style="margin: 10px">
+      <ul class="carousel-indicators">
+        <li data-target="#demo" data-slide-to="0" class="active"></li>
+        <li data-target="#demo" data-slide-to="1"></li>
+        <li data-target="#demo" data-slide-to="2"></li>
+        <li data-target="#demo" data-slide-to="3"></li>
+        <li data-target="#demo" data-slide-to="4"></li>
+      </ul>
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="./img/group-pic-old.jpeg" alt="old-tony" width="100%" height="100">
+          <div class="carousel-caption">
+            <h3 style="color:black">Kapoors, Seths and Mehras, Together!</h3>
+            <p style="color:grey"><b>Vaishno Das ji Kapoor, Shanti Seth Bhuaji, Taro Mehra Bhuaji</b></p>
+          </div>   
+        </div>
+        <div class="carousel-item">
+          <img src="./img/the-mehra-family.jpeg" alt="old-mehra" width="100%" height="100">
+          <div class="carousel-caption">
+            <h3>The Mehra's</h3>
+            <p>Kailash Bhua Ji's Family :)</p>
+          </div>   
+        </div>
+        <div class="carousel-item">
+          <img src="./img/janki-dass-kapur-family.jpeg" alt="old-JD-Kapoor" width="100%" height="100">
+          <div class="carousel-caption">
+            <h3>Janki Dass Kapoor's Family</h3>
+            <p>Kamlesh Kapoor, Manish Kapoor, Mansi Kapoor, and Bhavya, Anshuman</p>
+          </div>   
+        </div>
+        <div class="carousel-item">
+          <img src="./img/tony-neeru.jpeg" alt="Tony-Neeru" width="100%" height="100">
+          <div class="carousel-caption">
+            <h3>The Dashing Kapoor's</h3>
+            <p>Sweet Couple <3</p>
+          </div>   
+        </div>
+        <div class="carousel-item">
+          <img src="./img/naya-daur-new-generation.jpeg" alt="new-Pawan" width="100%" height="100">
+          <div class="carousel-caption">
+            <h3>The Young Kapoor's</h3>
+            <p>NNaya Daur, Nayi Generation</p>
+          </div>   
+        </div>
+      </div>
+      <a class="carousel-control-prev" href="#demo" data-slide="prev">
+        <span class="carousel-control-prev-icon"></span>
+      </a>
+      <a class="carousel-control-next" href="#demo" data-slide="next">
+        <span class="carousel-control-next-icon"></span>
+      </a>
+    </div>
+</div>
+</body>
+</html>
+
+</body>
+</html>
     <!--
     <div id="myCarousel" class="carousel slide" data-ride="carousel">
 
