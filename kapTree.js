@@ -351,7 +351,7 @@ treeJSON = d3.json("kapoors.json", function(error, treeData) {
             }
         };
         childCount(0, root);
-        var newHeight = d3.max(levelWidth) * 15; // 25 pixels per line  
+        var newHeight = d3.max(levelWidth) * 36; // 25 pixels per line  
         tree = tree.size([newHeight, viewerWidth]);
 
         // Compute the new tree layout.
@@ -360,7 +360,7 @@ treeJSON = d3.json("kapoors.json", function(error, treeData) {
 
         // Set widths between levels based on maxLabelLength.
         nodes.forEach(function(d) {
-            d.y = (d.depth * (maxLabelLength * 4));
+            d.y = (d.depth * (maxLabelLength * 6));
             // d.y = (d.depth * 500); //500px per level.
         });
 
